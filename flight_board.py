@@ -140,7 +140,7 @@ def fetch_flights(flight_direction: FlightDirection, min_in_past: int = 30, min_
 
 
 if __name__ == "__main__":
-    direction = FlightDirection.ARRIVAL  # set the direction
+    direction = FlightDirection.DEPARTURE  # set the direction
 
     # Fetch the flights
     flight_list = fetch_flights(direction)

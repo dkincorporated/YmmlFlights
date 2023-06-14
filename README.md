@@ -14,3 +14,6 @@ The `fetch_flights` function allows a choice of
 
 ## Dependencies
 - `prettytable` (to print in table format) – available from `pip`
+
+## Sample output
+![Departures](images/sample_departures.png)
